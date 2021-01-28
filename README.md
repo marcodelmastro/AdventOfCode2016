@@ -7,7 +7,7 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
 ## ChangeLog
 
 * Day 1: 2020-01-28
-* Day 2:
+* Day 2: 2020-01-28
 * Day 3:
 * Day 4:
 * Day 5:
