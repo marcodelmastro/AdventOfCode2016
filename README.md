@@ -15,7 +15,7 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
 * Day 7: 2020-01-29
 * Day 8: 2020-01-29
 * Day 9: 2020-01-30
-* Day 10: 
+* Day 10: 2020-01-30
 * Day 11: 
 * Day 12: 
 * Day 13: 
