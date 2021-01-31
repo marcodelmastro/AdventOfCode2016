@@ -18,8 +18,8 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
 * Day 10: 2020-01-30
 * Day 11: 
 * Day 12: 2020-01-30
-* Day 13: 
-* Day 14: 
+* Day 13: 2020-01-31
+* Day 14: 2020-01-31
 * Day 15: 
 * Day 16: 
 * Day 17: 
