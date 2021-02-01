@@ -6,7 +6,7 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
 
 ## ChangeLog and Notes
 
-* Day 1: 2020-01-28
+* [Day%2001.ipynb](Day 1): 2020-01-28
   * 2-D grid navigation using complex numbers to store coordinate and (change of) directions
   * Manhattan distance
 * Day 2: 2020-01-28
