@@ -4,11 +4,15 @@ My solutions to the [2015 Advent Of Code](https://adventofcode.com/2016) puzzles
 
 I did not participate to the challenge in 2016 (my first was in 2019) but I decided it would have been fun (and good practice) to try to solve them in my spare time.
 
-## ChangeLog
+## ChangeLog and Notes
 
 * Day 1: 2020-01-28
+  * 2-D grid navigation using complex numbers to store coordinate and (change of) directions
+  * Manhattan distance
 * Day 2: 2020-01-28
+  * Again 2-D movements, again using complex numbers for coordinates and boundary checks
 * Day 3: 2020-01-28
+  * 
 * Day 4: 2020-01-28
 * Day 5: 2020-01-29
 * Day 6: 2020-01-29
