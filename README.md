@@ -12,9 +12,13 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
 * Day 2: 2020-01-28
   * Again 2-D movements, again using complex numbers for coordinates and boundary checks
 * Day 3: 2020-01-28
-  * 
+  * Quick use of RegExp to simplify parsing of input
 * Day 4: 2020-01-28
+  * `Counter` to count character frequency in string
+  * Caesar shift chiper implemented with `str.maketrans()`
+  * Iterative manual solution of second part!
 * Day 5: 2020-01-29
+  * 
 * Day 6: 2020-01-29
 * Day 7: 2020-01-29
 * Day 8: 2020-01-29
