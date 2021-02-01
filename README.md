@@ -31,7 +31,7 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Using iteratively solution for Part 1 cannot really work for Part 2 (too large string) even if it's fine for example. 
   * Part 2 solution uses "compressed" information: assuming each decompressed repeating item can be decompressed by itself (e.g. no overlapping on chain of repeating items: it makes sense if this really was a compression algorithm), I save the single repeating item and the number of times it should repeat in the final string. Details in notebook.
 * [Day 10](Day%2010.ipynb): 2020-01-30
-   * Iterative execution of possible instruction given system state, saving and avoiding repeating already-executed instruction, until exhaustion of instructions.
+   * Iterative execution of possible instructions given system state, saving and avoiding repeating already-executed instructions, until exhaustion of all instructions.
 * Day 11: 
 * [Day 12](Day%2012.ipynb): 2020-01-30
    * Pseudo-assembly code (learned my lessons with AOC 2019 Intcode!)
