@@ -49,9 +49,10 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
 * [Day 18](Day%2018.ipynb): 2020-01-31
   * Iterative building similar to a 1-D Conway's Game of Life
 * [Day 19](Day%2019.ipynb):
-  * Part 1: 2020-02-01. Coded a poor-man linked list with delete, but it's too inefficient to work for the full example. Found a clever algorithm to solve it just by reducing list of playing elfs in cumulative way.
+  * Part 1: 2020-02-01. Coded a poor-man linked list with delete, but it's too inefficient to work for the full example. Found a clever algorithm to solve it just by reducing list of playing elves in cumulative way.
   * Part 2: **TODO** poor-man linked list still too inefficient, and I cannot find a clever algorithm as for Part 1. I think I will need to implement a proper linked list with delete capabilities. 
-* Day 20:
+* [Day 20](Day%2020.ipynb): 2020-02-02
+  * Overlapping and contiguous interval merging using a simple stack (implemented with a `list`)
 * Day 21:
 * Day 22: 
 * Day 23:
