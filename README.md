@@ -53,7 +53,8 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Part 2: **TODO** poor-man linked list still too inefficient, and I cannot find a clever algorithm as for Part 1. I think I will need to implement a proper linked list with delete capabilities. 
 * [Day 20](Day%2020.ipynb): 2020-02-02
   * Overlapping and contiguous interval merging using a simple stack (implemented with a `list`)
-* Day 21:
+* [Day 21](Day%2021.ipynb): 2020-02-02
+  * More list manipulation, then brute force using `itertools` `permutations`
 * Day 22: 
 * Day 23:
 * Day 24:
