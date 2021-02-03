@@ -49,10 +49,9 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
 * [Day 18](Day%2018.ipynb): 2020-01-31
   * Iterative building similar to a 1-D Conway's Game of Life
 * [Day 19](Day%2019.ipynb):
-  * Part 1: 2020-02-01. Coded a poor-man linked list with delete, but it's not very inefficient to solve the full example. Found a clever algorithm to solve it just by reducing list of playing elves in cumulative way.
-  * Part 2: 2020-02-03. Coded a list-based approach as for Part 1, then looked for patternsnin solutions with small values. Found patterns, coded fast solution exploiting them! 
-  * After the fact, found out this is variation on a very very old problem known as [Josephus problem](https://en.wikipedia.org/wiki/Josephus_problem). See for instance this [Numberophile video](https://www.youtube.com/watch?v=uCsD3ZGzMgE)
-  
+  * Part 1: 2020-02-01. Coded a poor-man linked list with delete, but it's not very inefficient to solve the full example. Found a clever algorithm to solve it just by reducing list of playing elves in cumulative way. 
+  * Part 2: 2020-02-03. Coded a list-based approach as for Part 1, then looked for patterns in solutions with small values. Found patterns, coded fast solution exploiting them! 
+  * After the fact, found out this is variation on a very very old problem known as [Josephus problem](https://en.wikipedia.org/wiki/Josephus_problem). See for instance this [Numberphile video](https://www.youtube.com/watch?v=uCsD3ZGzMgE).
 * [Day 20](Day%2020.ipynb): 2020-02-02
   * Overlapping and contiguous interval merging using a simple stack (implemented with a `list`)
 * [Day 21](Day%2021.ipynb): 2020-02-02
