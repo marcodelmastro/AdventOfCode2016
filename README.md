@@ -61,7 +61,8 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Part 2: **TODO**
 * [Day 23](Day%2021.ipynb): 2020-02-03
   * An extension of the assembly code of Day 12. Part 1 one easy, part 2 took > 1h to brute force, but understanding what the code was doing could lead to instantaneous solution. One could also have tries to implement an optimization of assembly multiplication implemented as sum, but this was too far away from my skill-set...
-* [Day 24](Day%2024.ipynb):
-  * Part 1: 2020-02-03. Maze solving with special location to visit at least once. Similar to AOC 2019 Day 19 with keys to collect to open doors. Solution with DFS and steps on paths represented by 2D spacial coordinates plus list of special locations visited.
-  * Part 2: **TODO**
+* [Day 24](Day%2024.ipynb): 2020-02-03
+  * Maze solving with special location to visit at least once. Similar to AOC 2019 Day 19 with keys to collect to open doors. 
+  * Solution with DFS and steps on paths represented by 2D spatial coordinates plus list of special locations visited. 
+  * Slight modification for Part 2 to go considering going back to initial position as condition.
 * Day 25: **TODO**
