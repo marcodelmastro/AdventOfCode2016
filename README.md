@@ -45,7 +45,8 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Size was nevertheless small enough even for Part 2, and direct search simply worked!
 * [Day 16](Day%2016.ipynb): 2020-01-31
   * String manipulation, slicing, comparing.
-* Day 17: **TODO**
+* [Day 17](Day%2017.ipynb): 2020-02-04
+  * Maze navigation with DFS with a MD5 to determine wall configuration at each step, depending on previous moves. Fun!
 * [Day 18](Day%2018.ipynb): 2020-01-31
   * Iterative building similar to a 1-D Conway's Game of Life
 * [Day 19](Day%2019.ipynb):
