@@ -32,7 +32,7 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Part 2 solution uses "compressed" information: assuming each decompressed repeating item can be decompressed by itself (e.g. no overlapping on chain of repeating items: it makes sense if this really was a compression algorithm), I save the single repeating item and the number of times it should repeat in the final string. Details in notebook.
 * [Day 10](Day%2010.ipynb): 2020-01-30
    * Iterative execution of possible instructions given system state, saving and avoiding repeating already-executed instructions, until exhaustion of all instructions. 
-* Day 11: 
+* Day 11: **TODO**
 * [Day 12](Day%2012.ipynb): 2020-01-30
    * Pseudo-assembly code (learned my lessons with AOC 2019 Intcode!)
 * [Day 13](Day%2013.ipynb): 2020-01-31
@@ -45,7 +45,7 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Size was nevertheless small enough even for Part 2, and direct search simply worked!
 * [Day 16](Day%2016.ipynb): 2020-01-31
   * String manipulation, slicing, comparing.
-* Day 17: 
+* Day 17: **TODO**
 * [Day 18](Day%2018.ipynb): 2020-01-31
   * Iterative building similar to a 1-D Conway's Game of Life
 * [Day 19](Day%2019.ipynb):
@@ -61,5 +61,7 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Part 2: **TODO**
 * [Day 23](Day%2021.ipynb): 2020-02-03
   * An extension of the assembly code of Day 12. Part 1 one easy, part 2 took > 1h to brute force, but understanding what the code was doing could lead to instantaneous solution. One could also have tries to implement an optimization of assembly multiplication implemented as sum, but this was too far away from my skill-set...
-* Day 24:
-* Day 25:
+* [Day 24](Day%2024.ipynb):
+  * Part 1: 2020-02-03. Maze solving with special position to pass by. Similar to AOC 2019 Day 19.
+  * Part 2: **TODO**
+* Day 25: **TODO**
