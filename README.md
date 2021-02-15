@@ -69,3 +69,7 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Slight modification for Part 2 to go considering going back to initial position as condition.
 * [Day 25](Day%2024.ipynb): 2020-02-04
   * A final `assembunny` puzzle, now with an output instruction.
+
+![50 stars](./AOC2016_50stars.png "50 stars")
+
+![Signal to Santa!](./AOC2016_signal.png "Signal to Santa!")
