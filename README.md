@@ -32,7 +32,8 @@ I did not participate to the challenge in 2016 (my first was in 2019) but I deci
   * Part 2 solution uses "compressed" information: assuming each decompressed repeating item can be decompressed by itself (e.g. no overlapping on chain of repeating items: it makes sense if this really was a compression algorithm), I save the single repeating item and the number of times it should repeat in the final string. Details in notebook.
 * [Day 10](Day%2010.ipynb): 2020-01-30
    * Iterative execution of possible instructions given system state, saving and avoiding repeating already-executed instructions, until exhaustion of all instructions. 
-* Day 11: **TODO**
+* [Day 11](Day%2011.ipynb): 2020-02-15
+   * Shortest path search with BFS, with many little detals to be taken into account to decide whether a state is valid. Using `set` instead of `list` to ease the floor comparison without having to sort, and to check the floor for fries microchips.
 * [Day 12](Day%2012.ipynb): 2020-01-30
    * Pseudo-assembly code (learned my lessons with AOC 2019 Intcode!)
 * [Day 13](Day%2013.ipynb): 2020-01-31
